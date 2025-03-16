@@ -22,7 +22,6 @@ This is a simple calculator application built using **Python and PyQt6**. It fol
 
 - **Python**
 - **PyQt6** for GUI development
-- **MVC architecture**
 
 ---
 
